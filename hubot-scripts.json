@@ -1,1 +1,1 @@
-["redis-brain.coffee", "decide.coffee", "coin.coffee"]
+["redis-brain.coffee", "decide.coffee", "coin.coffee", "sensitive.coffee", "yelp.coffee", "soundcloud-info.coffee"]
